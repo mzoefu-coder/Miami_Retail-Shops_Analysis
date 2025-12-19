@@ -1,10 +1,10 @@
 # Miami_Retail-Shops_Analysis
 Daily sales fluctuate, but leadership lacks clarity on why; understanding how weather and customer demographics impact performance will provide insights to improve planning, staffing and promotions.
 
-# Goal:
+# Purpose
 Provide insights to improve planning, staffing, and promotions.
 
-# Key Questions:
+# Key Questions
 •	How strongly do temperature and rainfall affect daily sales?
 
 •	Which shop performs best and why?
